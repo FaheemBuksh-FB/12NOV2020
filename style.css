@@ -1,0 +1,45 @@
+.cards{
+    width: 30%;
+    /* height: 200PX; */
+    text-align: center;
+    display: inline-block;
+    /* border: 1PX solid gold; */
+    /* background-color: darkgray; */
+    /* border-radius: 200px; */
+}
+
+.section{
+    margin-left: 5%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.loader{
+    text-align: center;
+}
+
+#btn{
+    border-radius: 10px;
+    height: 20px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    /* resize: both; */
+    /* display: inline-block; */
+    /* margin: auto; */
+    border: 1px dashed black;
+    /* justify-content: center; */
+    border-radius: 200px;
+    margin-top: auto;
+    margin-bottom: auto;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    
+}
+
+p{
+    /* background-color: gray; */
+}
